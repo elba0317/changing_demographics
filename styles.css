@@ -1,0 +1,134 @@
+/*********************************************************************
+  YOUR MOBILE/BASE STYLES GO HERE
+*********************************************************************/
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    /* Sets default font-size to 16px, ensuring 1em = 16px; */
+    font-size: 16px;
+}
+
+html, body {
+    /* Sets default font-size to 16px, ensuring 1em = 16px; */
+}
+
+
+}
+ {
+
+}
+
+h4{font-size: x-small;
+    color: black;}
+
+h2{font-size: large;
+	margin-top: 20px;
+	color: black;
+
+}
+
+h3{margin-top: 0px;
+	margin-bottom: 20px;
+    color: black;
+    font-size: small;
+}
+
+body{margin-left: 20px;
+	font-family: sans-serif;
+}
+
+
+.map {max-width: 1500px;
+
+}
+
+
+
+.picture {max-width: 100%;
+
+}
+
+h1 {
+	color: dodgerblue;
+	font-size: 100px;
+}
+}
+
+
+}
+
+p{margin-bottom: 20px;
+font-size: 15px;}
+
+
+.map {}
+
+
+
+body {margin-left: 20px;
+	font-family: sans-serif;}
+
+
+
+
+
+/*********************************************************************
+  YOUR DESKTOP-ONLY STYLES GO HERE
+*********************************************************************/
+@media(min-width: 729px) {
+    /* Any adjustments for desktop and larger go here.
+    Note these styles will be applied to anything 729px or larger -- so desktop */
+}
+h1{font-size: 50px;}
+
+h4{font-size: small;
+   margin-top: 0px;}
+
+h2{font-size: small;
+	margin-top: 20px;
+	color: black;
+
+}
+
+h3{margin-top: 0px;
+	margin-bottom: 20px;
+    color: black;
+}
+
+body{margin-left: 20px;
+	font-family: sans-serif;
+}
+
+
+.map {max-width: 50;
+
+}
+
+
+
+.picture {max-width: 700px;
+
+}
+
+
+}
+
+
+}
+
+p{margin-bottom: 20px;
+font-size: 15px;}
+
+
+.map {}
+
+
+
+body {margin-left: 20px;
+	font-family: sans-serif;
+
+
+
+
